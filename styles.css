@@ -530,11 +530,16 @@ input:focus {
     }
 
     .skills {
-        margin: 15px 25px 50px 25px;
+        margin: 15px 0px 50px 0px;
+    }
+
+    .head {
+        margin: 25px 35px 0px 35px;
     }
 
     .skill {
-        margin: 15px 25px;
+        width: 190px;
+        margin: 15px 5px;
     }
 
     #my-projects {
