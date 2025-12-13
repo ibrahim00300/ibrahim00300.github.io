@@ -197,7 +197,7 @@ h2 {
     height: 40px;
     min-width: 125px;
     padding: 0 10px;
-    font-size: larger;
+    font-size: large;
     font-weight: bold;
     letter-spacing: 2px;
 }
@@ -537,7 +537,12 @@ input:focus {
         margin: 25px 35px 0px 35px;
     }
 
+    .icon {
+        padding-top: 25px;
+    }
+
     .skill {
+        height: 215px;
         width: 150px;
         margin: 5px;
     }
