@@ -537,12 +537,7 @@ input:focus {
         margin: 25px 35px 0px 35px;
     }
 
-    .icon {
-        padding-top: 25px;
-    }
-
     .skill {
-        height: 215px;
         width: 150px;
         margin: 5px;
     }
